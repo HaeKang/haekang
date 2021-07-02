@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/Node.js-00cdac?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <br>
 <br>
-
-<h3> 📫 </h3> 
+  
+<h3>📫</h3> 
 <a href="https://www.instagram.com/saming__/" target='_blank'><img src="https://img.shields.io/badge/Instagram-ff758c?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:sam0128@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-ff0844?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
