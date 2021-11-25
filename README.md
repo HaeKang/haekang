@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Java-fa709a?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-30cfd0?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <br>
-<img src="https://img.shields.io/badge/HTML5-ff0844?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-ec8c69?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-6e45e2?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-00cdac?style=flat-square&logo=Node.js&logoColor=white"/></a>
