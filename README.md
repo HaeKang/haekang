@@ -13,9 +13,6 @@
 <img src="https://img.shields.io/badge/Node.js-00cdac?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <br>
 <br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=cutesami)](https://solved.ac/cutesami)
   
 <h3>📫</h3> 
 <a href="https://www.instagram.com/saming__/" target='_blank'><img src="https://img.shields.io/badge/Instagram-ff758c?style=flat-square&logo=instagram&logoColor=white"/></a>
@@ -24,6 +21,12 @@
 <br>
 <!--
 **HaeKang/haekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<br>
+<br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=cutesami)](https://solved.ac/cutesami)
 
 Here are some ideas to get you started:
 <a href="https://www.instagram.com/saming__/" target='_blank'><img src="https://img.shields.io/badge/Instagram-ff758c?style=flat-square&logo=instagram&logoColor=white"/></a>
