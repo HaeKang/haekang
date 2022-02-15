@@ -17,12 +17,15 @@
 <h3>📫</h3> 
 <a href="https://www.instagram.com/saming__/" target='_blank'><img src="https://img.shields.io/badge/Instagram-ff758c?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:sam0128@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-ff0844?style=flat-square&logo=gmail&logoColor=white"/></a>
-</div>
+
 <br>
 <br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cutesami)](https://solved.ac/cutesami)
+
+</div>
+
 
 <!--
 **HaeKang/haekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
