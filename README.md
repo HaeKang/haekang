@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" />
 <br>
 
+<img src="https://user-images.githubusercontent.com/41337631/161384545-1ea33eed-90b7-4d3d-9a6e-d4f218fe5ece.gif">
 <br>
   <h3> 🔥 Studying 🔥 </h3> 
 <img src="https://img.shields.io/badge/Python-495aff?style=flat-square&logo=Python&logoColor=white"/></a>
