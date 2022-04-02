@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" />
 <br>
-  ![3ef940bc5344b67b8bb681f9834c9d70](https://user-images.githubusercontent.com/41337631/161384545-1ea33eed-90b7-4d3d-9a6e-d4f218fe5ece.gif)
 
 <br>
   <h3> 🔥 Studying 🔥 </h3> 
