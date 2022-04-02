@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" />
 <br>
   <h3> 🔥 Tech Stack 🔥 </h3> 
-<img src="https://img.shields.io/badge/C++-764ba2?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-495aff?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-4481eb?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-fa709a?style=flat-square&logo=Java&logoColor=white"/></a>
