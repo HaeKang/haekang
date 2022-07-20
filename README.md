@@ -23,9 +23,3 @@
 <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellij-idea&logoColor=white"/></a>
 <br>
 <br>
-
-<h3>📫</h3> 
-<a href="https://www.instagram.com/saming__/" target='_blank'><img src="https://img.shields.io/badge/Instagram-ff758c?style=flat-square&logo=instagram&logoColor=white"/></a>
-<br>
-<br>
-</div>
